@@ -303,7 +303,6 @@ Not every folder needs every subfolder. The structure should serve the project, 
 
 ## 📌 Daily Project README Template
 
-Copy this into each daily project and adapt it to the work completed.
 
 ````markdown
 # 🚀 Day XX: [Topic Name]
@@ -494,7 +493,7 @@ Both count.
 | 08 - DevSecOps + Advanced Automation | ⬜ Not started | Secure automation workflow |
 | 09 - Advanced Projects | ⬜ Not started | Security data platform + career package |
 
-Suggested status values:
+Status values:
 
 - ⬜ Not started
 - 🟡 In progress
