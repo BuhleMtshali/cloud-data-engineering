@@ -1201,10 +1201,6 @@ chmod = what they can do
 sudo  = whether I can elevate privileges
 ```
 
-### 🧾 Today's Win
-
-> Add my own reflection here.
-
 ---
 
 # 📚 Useful Reference Commands
