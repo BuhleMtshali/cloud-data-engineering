@@ -1054,10 +1054,10 @@ Decode:
 Answer:
 
 ```text
-Owner  = ?
-Group  = ?
-Others = ?
-Numeric = ?
+Owner  = 7
+Group  = 5
+Others = 0
+Numeric = 750
 ```
 
 ## Challenge 2
@@ -1068,7 +1068,7 @@ Decode:
 -rw-r--r--
 ```
 
-What numeric permission is this?
+What numeric permission is this? 644
 
 ## Challenge 3
 
@@ -1078,35 +1078,7 @@ What does:
 chmod 700 private/
 ```
 
-mean for owner, group, and others?
-
-## Challenge 4
-
-Create:
-
-```text
-owner = james
-group = data-team
-permissions = rw-r-----
-```
-
-Which two commands would I use?
-
-## Challenge 5
-
-James tries:
-
-```bash
-sudo apt update
-```
-
-and gets:
-
-```text
-james is not in the sudoers file
-```
-
-Explain why.
+mean for owner, group, and others? Only the owner has permission to that file
 
 ---
 
