@@ -1158,28 +1158,28 @@ No emotional support. No explanation. Just vibes. 😭🐧
 
 # ✅ Day 2 Completion Checklist
 
-- [ ] I understand owner, group, and others
-- [ ] I can read `rwx`
-- [ ] I know `r=4`, `w=2`, `x=1`
-- [ ] I can decode numeric permissions
-- [ ] I understand `600`, `640`, `700`, `754`, `755`
-- [ ] I can explain why `777` is risky
-- [ ] I understand `chmod` vs `chown`
-- [ ] I understand `chgrp`
-- [ ] I can interpret `id`
-- [ ] I understand UID and GID
-- [ ] I understand primary vs supplementary groups
-- [ ] I can create a user
-- [ ] I can create a group
-- [ ] I can add a user to a group safely
-- [ ] I understand `-g` vs `-G`
-- [ ] I understand `sudo`
-- [ ] I understand why James is not automatically an admin
-- [ ] I understand that a shell and sudo access are separate
-- [ ] I know how to switch users
-- [ ] I know how to return with `exit`
-- [ ] I understand why James is not a child user
-- [ ] Permission strings no longer look like keyboard damage 😌
+- [ ✅] I understand owner, group, and others
+- [ ✅] I can read `rwx`
+- [ ✅] I know `r=4`, `w=2`, `x=1`
+- [ ✅] I can decode numeric permissions
+- [ ✅] I understand `600`, `640`, `700`, `754`, `755`
+- [ ✅] I can explain why `777` is risky
+- [ ✅] I understand `chmod` vs `chown`
+- [ ✅] I understand `chgrp`
+- [ ✅] I can interpret `id`
+- [ ✅] I understand UID and GID
+- [ ✅] I understand primary vs supplementary groups
+- [ ✅] I can create a user
+- [ ✅] I can create a group
+- [ ✅] I can add a user to a group safely
+- [ ✅] I understand `-g` vs `-G`
+- [ ✅] I understand `sudo`
+- [ ✅] I understand why James is not automatically an admin
+- [ ✅] I understand that a shell and sudo access are separate
+- [ ✅] I know how to switch users
+- [ ✅] I know how to return with `exit`
+- [ ✅] I understand why James is not a child user
+- [ ✅] Permission strings no longer look like keyboard damage 😌
 
 ---
 
