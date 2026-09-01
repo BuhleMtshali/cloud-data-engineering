@@ -1024,32 +1024,32 @@ PUSH
 
 # ✅ Day 5 Completion Checklist
 
-- [ ] I understand Git vs GitHub
-- [ ] I understand what a repository is
-- [ ] I know what `.git/` is
-- [ ] I understand working directory vs staging area
-- [ ] I can use `git status`
-- [ ] I can stage changes
-- [ ] I can create commits
-- [ ] I can write useful commit messages
-- [ ] I can use `git diff`
-- [ ] I can inspect commit history
-- [ ] I understand commit hashes
-- [ ] I can create a branch
-- [ ] I can switch branches
-- [ ] I understand merging
-- [ ] I understand remotes
-- [ ] I understand push
-- [ ] I understand fetch vs pull
-- [ ] I can clone a repo
-- [ ] I understand `.gitignore`
-- [ ] I understand why secrets should not enter Git
-- [ ] I can unstage a file
-- [ ] I understand `revert` vs `reset`
-- [ ] I understand stash
-- [ ] I understand merge conflicts
-- [ ] I understand Pull Requests
-- [ ] Version control no longer feels like “Save As v27 FINAL REAL” 😌🐙
+- [ ✅ ] I understand Git vs GitHub
+- [ ✅ ] I understand what a repository is
+- [ ✅ ] I know what `.git/` is
+- [ ✅ ] I understand working directory vs staging area
+- [ ✅ ] I can use `git status`
+- [ ✅ ] I can stage changes
+- [ ✅ ] I can create commits
+- [ ✅ ] I can write useful commit messages
+- [ ✅ ] I can use `git diff`
+- [ ✅ ] I can inspect commit history
+- [ ✅ ] I understand commit hashes
+- [ ✅ ] I can create a branch
+- [ ✅ ] I can switch branches
+- [ ✅ ] I understand merging
+- [ ✅ ] I understand remotes
+- [ ✅ ] I understand push
+- [ ✅ ] I understand fetch vs pull
+- [ ✅ ] I can clone a repo
+- [ ✅ ] I understand `.gitignore`
+- [ ✅ ] I understand why secrets should not enter Git
+- [ ✅ ] I can unstage a file
+- [ ✅ ] I understand `revert` vs `reset`
+- [ ✅ ] I understand stash
+- [ ✅ ] I understand merge conflicts
+- [ ✅ ] I understand Pull Requests
+- [ ✅ ] Version control no longer feels like “Save As v27 FINAL REAL” 😌🐙
 
 ---
 
