@@ -1053,28 +1053,6 @@ PUSH
 
 ---
 
-# 🪞 Reflection
-
-### 💡 What clicked today?
-
-> Add reflection here.
-
-### 🤔 What still feels confusing?
-
-> Add reflection here.
-
-### 🐙 Favourite Git command today
-
-```text
-Add command here.
-```
-
-### 🧾 Today's Win
-
-> Add one thing I can now do confidently with Git.
-
----
-
 # 📚 Useful Reference Commands
 
 ```bash
