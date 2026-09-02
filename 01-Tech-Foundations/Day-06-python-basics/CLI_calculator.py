@@ -12,6 +12,7 @@ def calculator_app():
         first_number = float(input("🧺 Enter your first number: "))
         operator = input("🧩 Choose an operator (+, /, *, -): ")
         second_number = float(input("🧺 Enter your second number: "))
+        output = 0
         
         match operator:
             case "+":
@@ -32,10 +33,10 @@ def calculator_app():
             case _:
                 print("‼️ Invalid Operators")
         
-    #CLOSING THE LOOP
-    runAgain = input("==== 💡 Wanna run the calculor again? (yes/no): ").lower()
-    if runAgain != "yes":
-        print("===== ⛳️ Thank you For Trying My Mini Calculator 🎲 =====")
+        #CLOSING THE LOOP
+        runAgain = input("==== 💡 Wanna run the calculor again? (yes/no): ").lower()
+        if runAgain != "yes":
+            print("===== ⛳️ Thank you For Trying My Mini Calculator 🎲 =====")
 
 # CALLING THE TIMER FUNCTION
 timer = threading.Timer(2, calculator_app)
