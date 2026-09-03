@@ -35,10 +35,10 @@ def login_validator():
             else:
                 print("----- ⛔️ ERROR: USERNAME NOT FOUND ⛔️ ------")
         
-        #CLOSING THE LOOP
-        login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
-        if login_again != "yes":
-            print("======== 🐧 THANK YOU, BYE 🆘 =======")
+            #CLOSING THE LOOP
+            login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
+            if login_again != "yes":
+                print("======== 🐧 THANK YOU, BYE 🆘 =======")
 
 
 # CALLING THE TIMER FUNCTION
