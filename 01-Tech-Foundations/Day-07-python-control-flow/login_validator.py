@@ -35,11 +35,11 @@ def login_validator():
     
      # STARTING WHILE LOOP
     while True:
-        
+        login_check()
             #CLOSING THE LOOP
-            login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
-            if login_again != "yes":
-                print("======== 🐧 THANK YOU, BYE 🆘 =======")
+        login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
+        if login_again != "yes":
+            print("======== 🐧 THANK YOU, BYE 🆘 =======")
 
 
 # CALLING THE TIMER FUNCTION
