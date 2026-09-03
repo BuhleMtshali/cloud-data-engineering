@@ -23,7 +23,17 @@ def login_validator():
             print("------ 🗂️ Let's Validate 🐝 ------")
             username = input("Enter username: ").strip().lower()
             password = input("Enter password: ").strip()
-        
+
+            #CHECK IF THE USERNAME EXISTS
+            if username in USER_DATABASE:
+                #CHECKING IF THE PASSWORD MATCHES
+                if USER_DATABASE[username] == password:
+                    print(f"----- ✅ Login successful! Welcome back {username}!")
+                    return True
+                else:
+                    print(f"----- 🆘 ERROR: INCORRECT password.")
+            else:
+                print("----- ⛔️ ERROR: USERNAME NOT FOUND ⛔️ ------")
         
         #CLOSING THE LOOP
         login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
