@@ -18,9 +18,15 @@ def login_validator():
      # STARTING WHILE LOOP
     while True:
         
+        # VALIDATING IF THE REGIISTERED USER IS THE LOGGING IN
+        def login_check():
+            print("------ 🗂️ Let's Validate 🐝 ------")
+            username = input("Enter username: ").strip().lower()
+            password = input("Enter password: ").strip()
+        
         
         #CLOSING THE LOOP
-        login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ")
+        login_again = input("====== ⛔️ Wanna check-in someone else? (yes/no): ").lower()
         if login_again != "yes":
             print("======== 🐧 THANK YOU, BYE 🆘 =======")
 
