@@ -8,6 +8,13 @@ print("================ 🤳🏽 MINI LOGIN VALIDATOR ⛔️ =================")
 # STARTING FUNCTION
 def login_validator():
     
+    #SIMULATED USER DATABASE
+    USER_DATABASE = {
+        "admin": "Secrete123!",
+        "alice": "Wonderland99",
+        "bob": "Builder456"
+    }
+    
      # STARTING WHILE LOOP
     while True:
         
